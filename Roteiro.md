@@ -22,4 +22,6 @@
 ![Tela do Setoolkit inicial](images/VirtualBox_kali-linux-2024.4-virtualbox-amd64_03_03_2025_16_53_02.png)
 
 ## Tela do Setoolkit em operação de clonagem da URL:
-![Tela do Setoolkit em operação ]()
+![Tela do Setoolkit em operação ](images/VirtualBox_kali-linux-2024.4-virtualbox-amd64_03_03_2025_20_31_57.png)
+
+
