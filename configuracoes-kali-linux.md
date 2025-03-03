@@ -1,4 +1,9 @@
-# Configurar o teclado no Kali Linux para o padrão ABNT2 é um processo simples, mas crucial para uma experiência de digitação confortável em português. 
+## Configuração da placa de rede para este tipo de ataque:
+- Acessar "Máquina" - "configurações" - "conectado a: placa em modo Bridge"
+- Dar OK e depois reiniciar a Maquina virtual
+
+
+## Configurar o teclado no Kali Linux para o padrão ABNT2 é um processo simples, mas crucial para uma experiência de digitação confortável em português. 
 - Existem duas maneiras principais de realizar essa configuração:
 
 **1. Através das Configurações Gráficas:**
