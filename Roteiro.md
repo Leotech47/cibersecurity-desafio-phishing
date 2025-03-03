@@ -1,6 +1,6 @@
 # Roteiro de ações para aplicar o teste do Fishing para capturar login e senha do Facebook:
 - Este tipo de ataque de fishing é válido para qualquer tipo de página Web para captura de login e senha
-- **Atenção : esta técnica é apenas didática para fins de demonstração dos riscos potenciais de clicar em links contidos em mensagens de texto de origem duvidosa.
+- Atenção : esta técnica é apenas didática para fins de demonstração dos riscos potenciais de clicar em links contidos em mensagens de texto de origem duvidosa.
 ## Instalação da maquina virtual (VMBOX)
 ## Instalação do Kali Linux 
 ### Criação de uma conta de perfil de teste do Facebook
