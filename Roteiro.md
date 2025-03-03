@@ -12,9 +12,9 @@
 - Digitar a senha do Kali: ````kali ````
 - Iniciando o setoolkit: Digite ``` setoolkit ``` e dê "Enter"
 - Tipo de ataque: Escolha a opção ``` Social-Engineering Attacks ``` e digite o número correspondente
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
+- Vetor de ataque: Escolha a opção ``` Web Site Attack Vectors ``` e digite o número correspondente
+- Método de ataque: Escolha a opção ```Credential Harvester Attack Method ``` e digite o número correspondente
+- Método de ataque: Escolha a opção ``` Site Cloner ``` e digite o número correspondente
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
