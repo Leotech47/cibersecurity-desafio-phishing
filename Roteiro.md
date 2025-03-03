@@ -4,3 +4,4 @@
 ### Criação de uma conta de perfil de teste do Facebook
 ## Link da página de login do Facebook : https://www.facebook.com/login.php/
 
+![Página de Login do Facebook](images/logo.png)
