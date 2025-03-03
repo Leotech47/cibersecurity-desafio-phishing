@@ -10,8 +10,8 @@
 - Abrir o terminal no kali linux e seguir os passoas a seguir:
 - Acesso root: digitar ``` sudo su ```
 - Digitar a senha do Kali: ````kali ````
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
+- Iniciando o setoolkit: Digite ``` setoolkit ``` e dê "Enter"
+- Tipo de ataque: Escolha a opção ``` Social-Engineering Attacks ``` e digite o número correspondente
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
