@@ -6,3 +6,14 @@
 
 ![Página de Login do Facebook](images/pagina-login-facebook.png)
 
+### Configurando o Phishing no Kali Linux
+- Abrir o terminal no kali linux e seguir os passoas a seguir:
+- Acesso root: digitar ``` sudo su ```
+- Digitar a senha do Kali: ````kali ````
+- Iniciando o setoolkit: ``` setoolkit ```
+- Tipo de ataque: ``` Social-Engineering Attacks ```
+- Vetor de ataque: ``` Web Site Attack Vectors ```
+- Método de ataque: ```Credential Harvester Attack Method ```
+- Método de ataque: ``` Site Cloner ```
+- Obtendo o endereço da máquina: ``` ifconfig ```
+- URL para clone: http://www.facebook.com
