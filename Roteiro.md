@@ -29,6 +29,7 @@
 ## Teste da página clonada no navegador:
 - Abra uma aba anonima no navegador do Google Chrome e digite o endereço da URL clonada;
 - Perceba que o navegador emite uma mensagem de alerta sobre página maliciosa:
+
 ![Tela do Google chrome ](images/Captura-de-tela-2025-03-03-210134.png)
 
 
