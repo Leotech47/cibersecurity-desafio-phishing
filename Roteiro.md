@@ -32,5 +32,20 @@
 
 ![Tela do Google chrome ](images/Captura-de-tela-2025-03-03-210134.png)
 
+## Solução para contornar o sistema de defesa do Browser:
+- Refazer o passo a passo do Setoolkit e escolher a opção 3) custom import ao invés do 2)Site cloner:
+- Abra o browser dentro do Kali Linux:
+- Abra a página original do Facebook:
+- Clique em "Save page as ..." no canto direito superior da página;
+- Clique em "More tools" e depois "Web developers tools":
+- Clique em "Inspector" e digite button para localizar a TAG da página;
+- Observe o texto inserido no Front end da página na TAG Button, isso indica a execução de um script para renderização da página Web no Browser;
+- Abra a pasta de Downloads do Kali linux e renomeie o arquivo da página do Facebook para "index.html";
+- Dê um duplo clique neste arquivo index.html para abrir no browser (Mozila firefox);
+- 
+- 
+- Clique em Ferramwentas do desenvolvedor (ctrl + shift + I) para editar o "button" do arquivo HTML
+- 
+
 
 
