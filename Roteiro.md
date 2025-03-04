@@ -26,4 +26,9 @@
 ## Tela do Setoolkit em operação de clonagem da URL:
 ![Tela do Setoolkit em operação ](images/VirtualBox_kali-linux-2024.4-virtualbox-amd64_03_03_2025_20_31_57.png)
 
+## Teste da página clonada no navegador:
+- Abra uma aba anonima no navegador do Google Chrome e digite o endereço da URL clonada;
+- Perceba que o navegador emite uma mensagem de alerta sobre página maliciosa:
+![Tela do Setoolkit em operação ](images/VirtualBox_kali-linux-2024.4-virtualbox-amd64_03_03_2025_20_31_57.png)
+
 
